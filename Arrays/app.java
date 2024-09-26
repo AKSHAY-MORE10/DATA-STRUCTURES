@@ -128,10 +128,10 @@ public static void PlusOne(int num){
 
 //    ? Valid
 
-// int arr[] = {2,3,4,5} ;
-// int[] arr = {2,3,4,5,677,78};
-// int arr []  = new int[20];
-// int [] arr   = new int[20];
+int arr[] = {2,3,4,5} ;
+int[] arr = {2,3,4,5,677,78};
+int arr []  = new int[20];
+int [] arr   = new int[20];
 int arr    []= new int[20];
 
 
