@@ -212,15 +212,15 @@ int arr234[] = {2,3,4,5};
 int arr12 [] = {2,3,4,5};
 
 
-// for(int i = 0 ;  i < arr12.length ; i++){
+for(int i = 0 ;  i < arr12.length ; i++){
 
-//     System.out.print(arr12[i]);
-// }
+    System.out.print(arr12[i]);
+}
 
-// for(int i : arr12){ // i in arrayname 
-//     System.out.print(i);
+for(int i : arr12){ // i in arrayname 
+    System.out.print(i);
 
-// }
+}
 
     }
 }
