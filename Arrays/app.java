@@ -199,9 +199,9 @@ int arr234[] = {2,3,4,5};
 
 // ! array is always called by  reference 
 
-// int num = 20 ;
-// PlusOne(num);
-// System.out.print( "this is printing in main " +num);
+int num = 20 ;
+PlusOne(num);
+System.out.print( "this is printing in main " +num);
 
 
 //  * array as argument in function , now array is passed as  reference not as value , that is  it is called by reference 
